@@ -1,6 +1,8 @@
 # project_b
 Coursera Related
 
+https://peachybison.shinyapps.io/project is the link to the Shiny App.
+
 Start-Ups are notoriously difficult to value given inherent subjective factors associated with their creation and promotion.  Nevertheless, there are likely a few key factors that dominate the others and provide for a very rough estimate of the venture at the Series A level.  This calculator can be modified for subsequent capital infusions, but is designed for the base Series A case.  The factors considered are:
 
 1) Founders' Past Experience and Integrity (Character)
